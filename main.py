@@ -30,7 +30,7 @@ from src.visualisation import (
     plot_adoption_by_devtype,
 )
 
-DATA_PATH = "data/survey_results_public.csv"
+DATA_PATH = "data/stack-overflow-developer-survey-2024/survey_results_public.csv"
 OUTPUT_DIR = "output"
 
 
